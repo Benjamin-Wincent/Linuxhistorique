@@ -1,0 +1,78 @@
+    1  ipconfig
+    2  /ipconfig
+    3  ifconfig
+    4  /ipconfig
+    5  ipconfig
+    6  ip config
+    7  /ip config
+    8  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+    9  /Users/benjamin/Downloads/clmystery-master/instructions ; exit;
+   10  nano cheatsheet.md
+   11  /Users/benjamin/Downloads/clmystery-master/instructions ; exit;
+   12  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+   13  /Users/benjamin/Downloads/clmystery-master/hint2 ; exit;
+   14  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   15  cat instructions
+   16  /Users/benjamin/Downloads/clmystery-master/mystery/people ; exit;
+   17  /Users/benjamin/Downloads/clmystery-master/mystery/vehicles ; exit;
+   18  cat instructions
+   19  nano cheatshett.md
+   20  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   21  /Users/benjamin/Downloads/clmystery-master/hint1 ; exit;
+   22  /Users/benjamin/Downloads/clmystery-master/mystery/crimescene ; exit;
+   23  nano cheatsheet.md
+   24  cat crimescene
+   25  cd/téléchargements
+   26  pwd
+   27  cd téléchargements
+   28  ls
+   29  cd Downloads
+   30  nano cheatsheet.md
+   31  nano cheatsheet.md
+   32  /Users/benjamin/Desktop/clmystery-master/instructions ; exit;
+   33  /Users/benjamin/Desktop/clmystery-master/instructions ; exit;
+   34  ls
+   35  ls Downloads
+   36  pwd
+   37  cd images
+   38  /pictures
+   39  cd pictures
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  ls
+   44  cd ..
+   45  ls
+   46  ls
+   47  ls .
+   48  ls -a
+   49  ls images
+   50  ls pictures
+   51  ls Pictures
+   52  cd user
+   53  cd Users
+   54  cd Pictures
+   55  ld
+   56  ls
+   57  cd benjamin
+   58  ls
+   59  cd Pictures
+   60  ls ..
+   61  ls /bin
+   62  ls -l /bin
+   63  pwd
+   64  cd ..
+   65  pwd
+   66  ls
+   67  cd /opt
+   68  cd Desktop
+   69  ls
+   70  cd /opt
+   71  ~
+   72  cd ~
+   73  cd
+   74  cd Pictures
+   75  cd ~
+   76  cd Pictures
+   77  cd
+   78  history > Linuxhistorique.log
